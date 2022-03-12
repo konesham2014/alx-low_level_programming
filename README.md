@@ -14,12 +14,24 @@ Thank you For Checking My Project
 You can access everything in here by [forking](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and then [cloning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository. 
 
 ## Projects
-All of the following folders are projects done during the studies:
+Here is the complete list of projects in this repository, each project has its description in its respective folder.
 
-| Project name | Description |
-| ------------ | ----------- |
-| [0x00-hello_world](https://github.com/konesham2014/alx-low_level_programming/tree/master/0x00-hello_world) | It aims to learn about basics commands, navigation, files and directories in Shell |
-| [0x01-variables_if_else_while](https://github.com/konesham2014/alx-low_level_programming/tree/master/0x01-variables_if_else_while) | It aims to learn about man pages, permissions (owner, group and other) of files and directories in Shell |
+* [0x00. C - Hello, World](https://github.com/konesham2014/alx-low_level_programming/tree/master/0x00-hello_world)
+* [0x01. C - Variables, if, else, while](https://github.com/konesham2014/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
+
 
 # Author
 Senait Mekonen <[konesham2014](https://github.com/konesham2014)>
+
+## Acknowledgements :pray:
+
+All work contained in this project is progressive project covered  as part of the curriculum for
+alx-intranet.hbtn School. Alx-intranet.hbtn is an interjoined Online  full-stack software engineering program that prepares students for careers in the tech industry
+using project-based peer learning. For more information, visit
+[this link](https://www.alxafrica.com/).
+
+<p align="center">
+  <img
+    src="https://lh3.googleusercontent.com/vH1HTHhq7BIEuhIDuEc2Wrc2LgZigsJEWDR56ALuDFRZv9-jqCgHNHuBHIB-fLrrbwp7tJ8b7qeIJo0VtHUh=s0"
+    alt="ALX logo">
+</p>
