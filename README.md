@@ -14,13 +14,12 @@ Thank you For Checking My Project
 You can access everything in here by [forking](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and then [cloning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository. 
 
 ## Projects
-Here is the complete list of projects in this repository, each project has its description in its respective folder.
+All of the following folders are projects done during the studies:
 
-* [0x00. C - Hello, World](https://github.com/konesham2014/alx-low_level_programming/tree/master/0x00-hello_world)
-* [0x01. C - Variables, if, else, while](https://github.com/konesham2014/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
+* [0x00-hello_world](https://github.com/fila2021/alx-low_level_programming/tree/master/0x00-hello_world)
+* [0x01-variables_if_else_while](https://github.com/fila2021/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 
-
-# Author
+# Author :black_nib:
 Senait Mekonen <[konesham2014](https://github.com/konesham2014)>
 
 ## Acknowledgements :pray:
