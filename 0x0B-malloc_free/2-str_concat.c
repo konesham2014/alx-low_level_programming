@@ -34,5 +34,4 @@ char *str_concat(char *s1, char *s2)
 
 	for (index = 0; s2[index]; index++)
 		concat_str[concat_index++] = s2[index];
-
-
+}
